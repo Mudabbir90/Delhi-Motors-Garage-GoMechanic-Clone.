@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136886583534",
+    "project_id": "delhi-motor-grage",
+    "storage_bucket": "delhi-motor-grage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136886583534:android:c30a2ed93c38a3885533ff",
+        "android_client_info": {
+          "package_name": "com.delhi_motor_grage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136886583534-r5n2kkpjeervfag3hqg9k278ui1idsa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delhi_motor_grage",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "136886583534-mof2ta1ao4i0ku3bqolgqs2v6ntic2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcusoMZ4PAiGO9ilUdGa1OxSQgdOdHfCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136886583534-mof2ta1ao4i0ku3bqolgqs2v6ntic2fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
